@@ -1,3 +1,8 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX"
+=======
+echo "ALX School"
+
+>>>>>>> parent of d8b7997... Hot fix
 
