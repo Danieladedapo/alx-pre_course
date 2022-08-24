@@ -1,8 +1,12 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "ALX"
 =======
 echo "ALX School"
 
 >>>>>>> parent of d8b7997... Hot fix
+=======
+echo "ALX School is so cool!"
+>>>>>>> b3083428223c7e297bcc515d8a3b77885a122adc
 
